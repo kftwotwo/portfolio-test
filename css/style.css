@@ -14,7 +14,7 @@
 }
 
 .flol {
-  color: lightgrey;
+  color: white;
   font-size: 15px;
 }
 
@@ -37,8 +37,17 @@ img {
 
 }
 .panel-success {
-  border-radius: 20px 0 20px 0
+  border-radius: 20px 0 20px 0;
 }
 .panel-warning {
-  border-radius: 20px 0 20px 0
+  border-radius: 20px 0 20px 0;
+}
+.well {
+  background-color: gainsboro;
+}
+.panel-body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/236x/04/81/9c/04819cbc3da36e6542fcbd54a2723649.jpg");
+}
+body {
+  background-image: url("https://i.ytimg.com/vi/n1zaspW_1fs/maxresdefault.jpg");
 }
