@@ -25,6 +25,20 @@ body {
 .list {
   color: deepskyblue;
 }
-.img {
-  float: right;
+img {
+  border-radius: 20px 0 20px 0;
+  border: solid deepskyblue 1px;
+}
+.panel-heading {
+  border-radius: 20px 0 0 0;
+}
+.panel-info {
+  border-radius: 20px 0 20px 0;
+
+}
+.panel-success {
+  border-radius: 20px 0 20px 0
+}
+.panel-warning {
+  border-radius: 20px 0 20px 0
 }
