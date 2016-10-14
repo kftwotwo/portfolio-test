@@ -6,14 +6,14 @@
 
 ## Description
 
-_This is Kevin Finley's portfolio test for epicodus and you can look at it @ (kftwotwo.github.io/portfolio-test)_
+_This is Kevin Finley's portfolio test for epicodus, it explains his job history, education, Why he joined epicodus, and about him self. You can look at his profile at (https://github.com/kftwotwo)_
 
 ## Setup/Installation Requirements
 
-* _Open it in your browser_
+* _Clone it to your destination and go to terminal and open that folder with atom_
 
 ## Link to Github Pages
-_kftwotwo.github.io/portfolio-test_
+_https://kftwotwo.github.io/portfolio-test/_
 ## Known Bugs
 
 _No knowen bugs_
