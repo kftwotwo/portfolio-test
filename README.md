@@ -12,7 +12,8 @@ _This is Kevin Finley's portfolio test for epicodus and you can look at it @ (kf
 
 * _Open it in your browser_
 
-
+## Link to Github Pages
+_kftwotwo.github.io/portfolio-test_
 ## Known Bugs
 
 _No knowen bugs_
